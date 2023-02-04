@@ -1,0 +1,24 @@
+{
+  "name": "tilda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Crypto address book.",
+  "main": "index.js",
+  "scripts": {
+    "client:dev": "cd client && yarn dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiradary/tilda.git"
+  },
+  "keywords": [
+    "crypto",
+    "address book"
+  ],
+  "author": "Hirad Arshadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiradary/tilda/issues"
+  },
+  "homepage": "https://github.com/hiradary/tilda#readme"
+}
